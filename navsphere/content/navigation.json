@@ -1,6 +1,15 @@
 {
   "navigationItems": [
     {
+      "id": "1773498825597",
+      "title": "特殊分类",
+      "icon": "Home",
+      "description": "这是黎明的保存",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -1544,15 +1553,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1773498825597",
-      "title": "特殊分类",
-      "icon": "Home",
-      "description": "这是黎明的保存",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }

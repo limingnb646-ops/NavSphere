@@ -23,6 +23,110 @@
           "icon": "/assets/img_1765686772245.webp",
           "enabled": true
         }
+        {
+          "id": "1774801008850",
+          "title": "历史",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2025/历史/2025年安徽省中考历史真题.docx",
+          "description": "",
+          "icon": "/assets/img_1765686772245.webp",
+          "enabled": true
+        }
+        {
+          "id": "1774801008851",
+          "title": "历史答案",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2025/历史/25历史答案.docx",
+          "description": "",
+          "icon": "/assets/img_1765686772245.webp",
+          "enabled": true
+        }
+        {
+          "id": "1774801008852",
+          "title": "政治",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2025/政治/2025年安徽省中考道德与法治真题.docx",
+          "description": "",
+          "icon": "/assets/img_1765686772245.webp",
+          "enabled": true
+        }
+        {
+          "id": "1774801008853",
+          "title": "政治答案",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2025/政治/25道法答案.docx",
+          "description": "",
+          "icon": "/assets/img_1765686772245.webp",
+          "enabled": true
+        }
+        {
+          "id": "1774801008854",
+          "title": "数学",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2025/数学/2025年安徽省中考数学试题.docx",
+          "description": "",
+          "icon": "/assets/img_1765686772245.webp",
+          "enabled": true
+        }
+        {
+          "id": "1774801008855",
+          "title": "数学答案",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2025/数学/25数学答案.docx",
+          "description": "",
+          "icon": "/assets/img_1765686772245.webp",
+          "enabled": true
+        }
+        {
+          "id": "1774801008856",
+          "title": "物理",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2025/物理/2025年安徽省中考物理试题.docx",
+          "description": "",
+          "icon": "/assets/img_1765686772245.webp",
+          "enabled": true
+        }
+        {
+          "id": "1774801008857",
+          "title": "物理答案",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2025/物理/答案25物理.docx",
+          "description": "",
+          "icon": "/assets/img_1765686772245.webp",
+          "enabled": true
+        }
+        {
+          "id": "1774801008858",
+          "title": "英语",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2025/英语/2025年安徽省中考英语试题.docx",
+          "description": "",
+          "icon": "/assets/img_1765686772245.webp",
+          "enabled": true
+        }
+        {
+          "id": "1774801008859",
+          "title": "英语答案",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2025/英语/25英语答案.docx",
+          "description": "",
+          "icon": "/assets/img_1765686772245.webp",
+          "enabled": true
+        }
+        {
+          "id": "1774801008860",
+          "title": "语文",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2025/语文/2025年安徽省中考语文试题.docx",
+          "description": "",
+          "icon": "/assets/img_1765686772245.webp",
+          "enabled": true
+        }
+        {
+          "id": "1774801008861",
+          "title": "语文答案",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2025/语文/25语文答案.docx",
+          "description": "",
+          "icon": "/assets/img_1765686772245.webp",
+          "enabled": true
+        }
+        {
+          "id": "1774801008861",
+          "title": "25所有答案",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2025/25答案整合.docx",
+          "description": "",
+          "icon": "/assets/img_1765686772245.webp",
+          "enabled": true
+        }
       ],
       "subCategories": []
     },
@@ -36,6 +140,118 @@
         {
           "id": "1774794553356",
           "title": "化学",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2024/化学/2024年安徽省中考化学真题.docx",
+          "description": "",
+          "icon": "/assets/img_1765686772245.webp",
+          "enabled": true
+        }
+        {
+          "id": "1774794553357",
+          "title": "化学答案",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2024/化学/24答案化学.docx",
+          "description": "",
+          "icon": "/assets/img_1765686772245.webp",
+          "enabled": true
+        }
+        {
+          "id": "1774794553358",
+          "title": "历史",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2024/历史/2024年安徽省中考历史真题.docx",
+          "description": "",
+          "icon": "/assets/img_1765686772245.webp",
+          "enabled": true
+        }
+        {
+          "id": "1774794553359",
+          "title": "历史答案",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2024/历史/24答案历史.docx",
+          "description": "",
+          "icon": "/assets/img_1765686772245.webp",
+          "enabled": true
+        }
+        {
+          "id": "1774794553360",
+          "title": "政治",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2024/政治/2024年安徽省中考道德与法治真题.docx",
+          "description": "",
+          "icon": "/assets/img_1765686772245.webp",
+          "enabled": true
+        }
+        {
+          "id": "1774794553361",
+          "title": "政治答案",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2024/政治/24答案政治.docx",
+          "description": "",
+          "icon": "/assets/img_1765686772245.webp",
+          "enabled": true
+        }
+        {
+          "id": "1774794553362",
+          "title": "数学",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2024/数学/2024年安徽省中考 数学试题.docx",
+          "description": "",
+          "icon": "/assets/img_1765686772245.webp",
+          "enabled": true
+        }
+        {
+          "id": "1774794553363",
+          "title": "数学答案",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2024/数学/24答案数学（简）.docx",
+          "description": "",
+          "icon": "/assets/img_1765686772245.webp",
+          "enabled": true
+        }
+        {
+          "id": "1774794553356",
+          "title": "物理",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2024/物理/2024年安徽省中考物理真题.docx",
+          "description": "",
+          "icon": "/assets/img_1765686772245.webp",
+          "enabled": true
+        }
+        {
+          "id": "1774794553356",
+          "title": "物理答案",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2024/物理/24答案物理.docx",
+          "description": "",
+          "icon": "/assets/img_1765686772245.webp",
+          "enabled": true
+        }
+        {
+          "id": "1774794553364",
+          "title": "英语",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2024/英语/2024年安徽省中考英语真题.docx",
+          "description": "",
+          "icon": "/assets/img_1765686772245.webp",
+          "enabled": true
+        }
+        {
+          "id": "1774794553365",
+          "title": "英语答案",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2024/英语/24答案英语.docx",
+          "description": "",
+          "icon": "/assets/img_1765686772245.webp",
+          "enabled": true
+        }
+        {
+          "id": "1774794553366",
+          "title": "语文",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2024/语文/2024年安徽省中考语文真题.docx",
+          "description": "",
+          "icon": "/assets/img_1765686772245.webp",
+          "enabled": true
+        }
+        {
+          "id": "1774794553367",
+          "title": "语文答案",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2024/语文/24答案语文.docx",
+          "description": "",
+          "icon": "/assets/img_1765686772245.webp",
+          "enabled": true
+        }
+        {
+          "id": "1774794553368",
+          "title": "24所有答案",
           "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2024/化学/2024年安徽省中考化学真题.docx",
           "description": "",
           "icon": "/assets/img_1765686772245.webp",

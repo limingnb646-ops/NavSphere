@@ -39,6 +39,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "f107600d-2303-4d12-a674-d17f6aaaea5e",
+          "title": "英语",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },

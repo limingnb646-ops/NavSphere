@@ -14,6 +14,14 @@
           "description": "",
           "icon": "/assets/img_1765686772245.webp",
           "enabled": true
+        },
+        {
+          "id": "1774803400381",
+          "title": "化学答案",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2025/化学/答案25化学.docx",
+          "description": "访问 raw.githubusercontent.com",
+          "icon": "/assets/img_1765686772245.webp",
+          "enabled": true
         }
       ],
       "subCategories": []

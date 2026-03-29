@@ -433,6 +433,15 @@
       "subCategories": []
     },
     {
+      "id": "1774792164368",
+      "title": "2023中考",
+      "icon": "BookOpen",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1735265493940",
       "title": "开发者工具包",
       "icon": "Box",
@@ -1580,15 +1589,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1774792164368",
-      "title": "2023中考",
-      "icon": "BookOpen",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     },
     {
       "id": "1774792177466",

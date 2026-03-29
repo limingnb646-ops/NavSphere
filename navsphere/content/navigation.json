@@ -1,6 +1,15 @@
 {
   "navigationItems": [
     {
+      "id": "1774792114986",
+      "title": "2025中考",
+      "icon": "BookOpen",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1773498825597",
       "title": "特殊分类",
       "icon": "Home",
@@ -1562,15 +1571,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1774792114986",
-      "title": "2025中考",
-      "icon": "BookOpen",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     },
     {
       "id": "1774792151392",

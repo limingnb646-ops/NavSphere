@@ -6,7 +6,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1774794553355",
+          "title": "化学",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2021/化学/2021年安徽省中考化学真题.doc",
+          "description": "",
+          "icon": "/assets/favicon_1774798885586.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {

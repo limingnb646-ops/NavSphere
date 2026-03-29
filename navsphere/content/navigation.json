@@ -103,6 +103,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "bc5b267d-8b2c-4852-b2c6-b86eca08c75f",
+          "title": "历史答案",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },

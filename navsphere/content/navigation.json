@@ -1562,6 +1562,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1774792114986",
+      "title": "2025中考",
+      "icon": "BookOpen",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }

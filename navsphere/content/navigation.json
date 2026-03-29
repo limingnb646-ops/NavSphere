@@ -15,6 +15,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "1d26e612-9ae6-47b9-bff6-d5b3cf40e89d",
+          "title": "数学答案",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },

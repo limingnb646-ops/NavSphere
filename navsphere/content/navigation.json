@@ -95,6 +95,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "2f6fb493-9e6a-42b7-9fe9-812602401bf7",
+          "title": "历史",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },

@@ -31,6 +31,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "afe8cfee-9ea6-4223-98f5-4f9e36abe285",
+          "title": "语文答案",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },

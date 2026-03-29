@@ -9,14 +9,6 @@
       "items": [],
       "subCategories": [
         {
-          "id": "2c30526c-e82f-48b5-a027-2b31bc3dcb9a",
-          "title": "数学",
-          "icon": "FolderOpen",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
           "id": "1d26e612-9ae6-47b9-bff6-d5b3cf40e89d",
           "title": "数学答案",
           "icon": "FolderOpen",

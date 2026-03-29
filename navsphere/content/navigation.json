@@ -28,7 +28,7 @@
       "subCategories": []
     },
     {
-      "id": "1774792192021",
+      "id": "1774792192021"
       "title": "2021中考",
       "icon": "BookOpen",
       "description": "",
@@ -62,7 +62,7 @@
         {
           "id": "1_2",
           "title": "Vercel",
-          "href": "https://vercel.com/",
+          "href": "https://vercel.com/"，
           "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
           "icon": "/assets/images/logos/vercel.webp",
           "enabled": true

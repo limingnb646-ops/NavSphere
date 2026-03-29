@@ -55,6 +55,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "ceaad1ae-f73a-4a39-8b6a-a21eb690c1c9",
+          "title": "物理",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },

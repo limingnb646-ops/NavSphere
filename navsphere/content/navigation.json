@@ -37,6 +37,15 @@
       "subCategories": []
     },
     {
+      "id": "1774792192021",
+      "title": "2021中考",
+      "icon": "BookOpen",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1773498825597",
       "title": "特殊分类",
       "icon": "Home",
@@ -449,15 +458,6 @@
       ],
       "description": "",
       "enabled": true
-    },
-    {
-      "id": "1774792192021",
-      "title": "2021中考",
-      "icon": "BookOpen",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     },
     {
       "id": "1735265493940",

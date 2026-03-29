@@ -23,6 +23,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "e7852da4-8501-4715-80af-f0130932df58",
+          "title": "语文",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },

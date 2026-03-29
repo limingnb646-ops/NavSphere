@@ -1598,6 +1598,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1774794249159",
+      "title": "2025中考",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }

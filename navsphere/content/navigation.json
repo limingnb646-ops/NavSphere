@@ -1580,6 +1580,15 @@
       "enabled": true,
       "items": [],
       "subCategories": []
+    },
+    {
+      "id": "1774792164368",
+      "title": "2023中考",
+      "icon": "BookOpen",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }

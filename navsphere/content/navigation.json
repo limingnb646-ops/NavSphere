@@ -71,6 +71,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "d2b27ab3-c091-4baf-b307-cb53aa5f9991",
+          "title": "化学",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },

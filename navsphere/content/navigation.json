@@ -79,6 +79,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "53d7f535-84f4-4cb5-92be-64434abb5d43",
+          "title": "政治",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },

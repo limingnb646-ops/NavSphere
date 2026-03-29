@@ -1,104 +1,6 @@
 {
   "navigationItems": [
     {
-      "id": "1774792114986",
-      "title": "2025中考",
-      "icon": "BookOpen",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "e7852da4-8501-4715-80af-f0130932df58",
-          "title": "语文",
-          "icon": "FolderOpen",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "afe8cfee-9ea6-4223-98f5-4f9e36abe285",
-          "title": "语文答案",
-          "icon": "FolderOpen",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "f107600d-2303-4d12-a674-d17f6aaaea5e",
-          "title": "英语",
-          "icon": "FolderOpen",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "d4324f7b-0b89-46c1-9cfe-d253a8424539",
-          "title": "英语答案",
-          "icon": "FolderOpen",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "ceaad1ae-f73a-4a39-8b6a-a21eb690c1c9",
-          "title": "物理",
-          "icon": "FolderOpen",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "43ff89d3-ebd0-442f-bf8c-0b80456fa9c9",
-          "title": "物理答案",
-          "icon": "FolderOpen",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "d2b27ab3-c091-4baf-b307-cb53aa5f9991",
-          "title": "化学",
-          "icon": "FolderOpen",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "53d7f535-84f4-4cb5-92be-64434abb5d43",
-          "title": "政治",
-          "icon": "FolderOpen",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "537ad4fc-0e15-4d35-af27-892b63383e16",
-          "title": "政治答案",
-          "icon": "FolderOpen",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "2f6fb493-9e6a-42b7-9fe9-812602401bf7",
-          "title": "历史",
-          "icon": "FolderOpen",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "bc5b267d-8b2c-4852-b2c6-b86eca08c75f",
-          "title": "历史答案",
-          "icon": "FolderOpen",
-          "description": "",
-          "enabled": true,
-          "items": []
-        }
-      ]
-    },
-    {
       "id": "1774792151392",
       "title": "2024中考",
       "icon": "BookOpen",
@@ -108,7 +10,7 @@
       "subCategories": []
     },
     {
-      "id": "1774792164368",
+      "id": "1774792164368"，
       "title": "2023中考",
       "icon": "BookOpen",
       "description": "",

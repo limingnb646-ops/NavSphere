@@ -1,6 +1,15 @@
 {
   "navigationItems": [
     {
+      "id": "1774794249159",
+      "title": "2025中考",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1774792151392",
       "title": "2024中考",
       "icon": "BookOpen",
@@ -1598,15 +1607,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1774794249159",
-      "title": "2025中考",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }

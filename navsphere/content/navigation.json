@@ -87,6 +87,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "537ad4fc-0e15-4d35-af27-892b63383e16",
+          "title": "政治答案",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },

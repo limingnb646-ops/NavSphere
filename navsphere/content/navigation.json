@@ -24,7 +24,16 @@
       "icon": "BookOpen",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1774794553356",
+          "title": "化学",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2024/化学/2024年安徽省中考化学真题.docx",
+          "description": "",
+          "icon": "/assets/img_1765686772245.webp",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
@@ -33,7 +42,16 @@
       "icon": "BookOpen",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1774794553357",
+          "title": "化学",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2024/化学/2024年安徽省中考化学真题.docx",
+          "description": "",
+          "icon": "/assets/img_1765686772245.webp",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
@@ -42,7 +60,16 @@
       "icon": "BookOpen",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1774794553358",
+          "title": "化学",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2024/化学/2024年安徽省中考化学真题.docx",
+          "description": "",
+          "icon": "/assets/img_1765686772245.webp",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {

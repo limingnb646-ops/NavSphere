@@ -51,7 +51,16 @@
       "icon": "BookOpen",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1774799003623",
+          "title": "化学",
+          "href": "https://raw.githubusercontent.com/limingnb646-ops/NavSphere/main/2021/化学/2021年安徽省中考化学真题.doc",
+          "description": "",
+          "icon": "/assets/img_1765686772245.webp",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {

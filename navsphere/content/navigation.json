@@ -63,6 +63,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "43ff89d3-ebd0-442f-bf8c-0b80456fa9c9",
+          "title": "物理答案",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
